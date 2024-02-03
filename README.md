@@ -19,3 +19,9 @@ const nums = [1, 2, 3, 4, 5];
 access_Array_Element(nums, 1); // Valid index
 access_Array_Element(nums, 5); // Invalid index
 
+**Sample Output:**
+
+"Accessed element:"
+2
+"Accessed element:"
+undefined
